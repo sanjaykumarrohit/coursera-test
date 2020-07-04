@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"cola",
+				"collapse"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/github/fullstack-course4/examples/Lecture55/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture56/README.txt",
+		"/D/github/fullstack-course4/examples/Lecture55/index.html",
+		"/D/github/fullstack-course4/examples/Lecture54/index.html",
+		"/D/github/fullstack-course4/examples/Lecture54/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture53/index.html",
+		"/D/github/fullstack-course4/examples/Lecture53/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture52/index.html",
+		"/D/github/fullstack-course4/examples/Lecture52/js/script2.js",
+		"/D/github/fullstack-course4/examples/Lecture52/js/script1.js",
+		"/D/github/fullstack-course4/examples/Lecture52/js/app.js",
+		"/D/github/fullstack-course4/examples/Lecture51/index.html",
+		"/D/github/fullstack-course4/examples/Lecture51/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture50/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture50/index.html",
+		"/D/github/fullstack-course4/examples/Lecture49/index.html",
+		"/D/github/fullstack-course4/examples/Lecture49/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture48/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture48/index.html",
+		"/D/github/fullstack-course4/examples/Lecture47/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture47/index.html",
+		"/D/github/fullstack-course4/examples/Lecture46/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture46/index.html",
+		"/D/github/fullstack-course4/examples/Lecture45/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture45/index.html",
+		"/D/github/fullstack-course4/examples/Lecture44/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture44/index.html",
+		"/D/github/fullstack-course4/examples/Lecture43/index.html",
+		"/D/github/fullstack-course4/examples/Lecture43/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture42/index.html",
+		"/D/github/fullstack-course4/examples/Lecture42/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture41/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture41/index.html",
+		"/D/github/fullstack-course4/examples/Lecture40/js/script.js",
+		"/D/github/fullstack-course4/examples/Lecture40/index.html",
+		"/C/Users/Sanjay/Downloads/assign2.html",
+		"/D/github/coursera-test/ass2/css/bootstrap.css",
+		"/D/github/fullstack-course4/examples/Lecture36/after/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture37/after/menu-categories.html",
+		"/D/github/fullstack-course4/examples/Lecture36/after/index.html",
+		"/D/github/coursera-test/ass2/css/styles.css",
+		"/D/github/coursera-test/ass2/ass.html",
+		"/D/github/coursera-test/ass/ass.html",
+		"/D/github/fullstack-course4/examples/Lecture35/after/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture35/after/index.html",
+		"/D/github/fullstack-course4/examples/Lecture34/after/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture34/after/index.html",
+		"/D/github/fullstack-course4/examples/Lecture33/after/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture33/after/index.html",
+		"/D/github/fullstack-course4/examples/Lecture32/after/index.html",
+		"/D/github/fullstack-course4/examples/Lecture32/after/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture31/after/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture31/after/index.html",
+		"/D/github/fullstack-course4/examples/Lecture30/after/index.html",
+		"/D/github/fullstack-course4/examples/Lecture30/after/css/styles.css",
+		"/D/github/coursera-test/ass2/css/bootstrap-theme.min.css.map",
+		"/D/github/coursera-test/ass2/css/bootstrap-theme.min.css",
+		"/D/github/coursera-test/ass2/css/bootstrap.min.css",
+		"/D/github/fullstack-course4/examples/Lecture29/before/index.html",
+		"/D/github/fullstack-course4/examples/Lecture31/before/index.html",
+		"/D/github/fullstack-course4/examples/Lecture31/after/images/jumbotron_768.jpg",
+		"/D/github/fullstack-course4/examples/Lecture30/before/index.html",
+		"/D/github/fullstack-course4/examples/Lecture30/before/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture30/before/images/restaurant-logo_large.png",
+		"/D/github/fullstack-course4/examples/Lecture30/after/images/jumbotron_768.jpg",
+		"/D/github/fullstack-course4/examples/Lecture15/pseudo-selectors-after.html",
+		"/D/github/fullstack-course4/examples/Lecture14/child-selector-after.html",
+		"/D/github/fullstack-course4/examples/Lecture14/descendant-selector-after.html",
+		"/D/github/fullstack-course4/examples/Lecture13/simple-selectors-after.html",
+		"/D/github/fullstack-course4/examples/Lecture14/element-with-class-after.html",
+		"/D/github/fullstack-course4/examples/Lecture12/css-syntax.html",
+		"/D/github/fullstack-course4/examples/Lecture10/images.html",
+		"/D/github/fullstack-course4/examples/Lecture09/links-external.html",
+		"/D/github/fullstack-course4/examples/Lecture09/links-internal.html",
+		"/D/github/fullstack-course4/examples/Lecture09/links-same-page.html",
+		"/D/github/fullstack-course4/examples/Lecture09/same-directory.html",
+		"/D/github/fullstack-course4/examples/Lecture08/html-entities-after.html",
+		"/D/github/fullstack-course4/examples/Lecture08/html-entities-before.html",
+		"/D/github/fullstack-course4/examples/Lecture07/unordered-lists-before.html",
+		"/D/github/fullstack-course4/examples/Lecture07/unordered-lists-after.html",
+		"/D/github/fullstack-course4/examples/Lecture07/ordered-lists-before.html",
+		"/D/github/fullstack-course4/examples/Lecture07/ordered-lists-after.html",
+		"/D/github/fullstack-course4/examples/Lecture06/headings.html",
+		"/D/github/fullstack-course4/examples/Lecture06/semantic-elements.html",
+		"/D/github/fullstack-course4/examples/Lecture04/doc-structure-after.html",
+		"/D/github/fullstack-course4/examples/Lecture04/doc-structure-before.html",
+		"/D/github/fullstack-course4/examples/Lecture05/div-and-span.html",
+		"/D/github/fullstack-course4/examples/Lecture01/structure-only-before.html",
+		"/D/github/fullstack-course4/examples/Lecture01/structure-only-after.html",
+		"/D/github/coursera-test/ass/test.html",
+		"/D/github/coursera-test/site/index.html",
+		"/D/github/fullstack-course4/examples/Lecture26/grid-after.html",
+		"/D/github/fullstack-course4/examples/Lecture24/responsive-after.html",
+		"/D/github/fullstack-course4/examples/Lecture24/responsive-before.html",
+		"/D/github/fullstack-course4/examples/Lecture26/css/styles.css",
+		"/D/github/coursera-test/site/css/styles.css",
+		"/D/github/fullstack-course4/examples/Lecture28/README.txt",
+		"/D/github/coursera-test/site/css/bootstrap.css.map",
+		"/D/github/fullstack-course4/assignments/assignment2/Assignment-2.md",
+		"/D/github/fullstack-course4/examples/Lecture25/index.html",
+		"/D/github/fullstack-course4/examples/Lecture16/style-placement.html",
+		"/D/github/fullstack-course4/examples/Lecture16/style.css",
+		"/D/github/fullstack-course4/examples/Lecture14/element-with-class-before.html",
+		"/D/github/coursera-test/site/first.html",
+		"/D/github/fullstack-course4/Lecture-Slides/Lecture04-BasicDocumentStructure.pdf"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "name.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
